@@ -1,0 +1,1 @@
+Cody prefers completed deliverables in editable document (.doc/.docx) format and wants them emailed to cmills@guardiantravelgroup.com by default.

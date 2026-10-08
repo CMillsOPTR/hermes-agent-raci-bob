@@ -1,0 +1,12 @@
+description: RSS build a RSS feed with the supplied companies to keep updates succint
+  and to the point while managing them all in one place.
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar
+    color: '#f97316'
+    imageKind: shape
+    title: RSS Feed
+    created: 1787155883120
+    chat: 20260819_111129_cab304
+    custom: true
